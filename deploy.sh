@@ -1,1 +1,1 @@
-echo "deploying the project : `date`
+echo "deploying the project :" `date`

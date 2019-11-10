@@ -1,1 +1,1 @@
-echo "testing the project : `date`
+echo "testing the project :" `date`
